@@ -15,6 +15,7 @@ class MedicineTestCase(TestCase):
 
     def setUp(self):
         # Create a Dosage Form object
+        
         # https://stackoverflow.com/a/49875101/11105356
         # https://devblog.kogan.com/blog/testing-auto-now-datetime-fields-in-django
         # https://tech.serhatteker.com/post/2021-12/testing-created-auto-now-fields-django/
